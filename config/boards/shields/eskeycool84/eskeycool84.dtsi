@@ -39,9 +39,9 @@ RC(5,0)    RC(5,1)    RC(5,2)    RC(5,3)                                        
             , <&pro_micro 15 GPIO_ACTIVE_HIGH>
             , <&pro_micro 14 GPIO_ACTIVE_HIGH>
             , <&pro_micro 16 GPIO_ACTIVE_HIGH>
-            , <&pro_micro 10 GPIO_ACTIVE_HIGH>
             , <&pro_micro 1  GPIO_ACTIVE_HIGH>
             , <&pro_micro 0  GPIO_ACTIVE_HIGH>
+            , <&gpio0 7  GPIO_ACTIVE_HIGH>
 			, <&gpio0 22 GPIO_ACTIVE_HIGH>
 			, <&gpio1 0  GPIO_ACTIVE_HIGH>
 			, <&gpio1 2  GPIO_ACTIVE_HIGH>
