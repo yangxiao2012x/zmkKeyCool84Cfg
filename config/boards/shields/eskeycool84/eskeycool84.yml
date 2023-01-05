@@ -1,0 +1,9 @@
+file_format: "1"
+id: eskeycool84
+name: ES KeyCool 84
+type: shield
+url: https://github.com/es12138/zmkKeyCool84Cfg.git
+requires: [pro_micro]
+features:
+  - keys
+  - display
