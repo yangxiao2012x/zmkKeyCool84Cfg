@@ -32,12 +32,12 @@
         DEFAULT {
             label = "DEFAULT";
             bindings = <
-&rgb_ug RGB_TOG           &kp F1           &kp F2           &kp F3           &kp F4           &kp F5           &kp F6                           &kp F7                             &kp F8                             &kp F9        &kp F10           &kp F11            &kp F12  &kp PRINTSCREEN  &kp PAUSE_BREAK  &kp DELETE
-      &kp GRAVE     &kp NUMBER_1     &kp NUMBER_2     &kp NUMBER_3     &kp NUMBER_4     &kp NUMBER_5     &kp NUMBER_6                     &kp NUMBER_7                       &kp NUMBER_8                       &kp NUMBER_9   &kp NUMBER_0         &kp MINUS          &kp EQUAL    &kp BACKSPACE         &kp HOME
-        &kp TAB            &kp Q            &kp W            &kp E            &kp R            &kp T            &kp Y                            &kp U                              &kp I                              &kp O          &kp P  &kp LEFT_BRACKET  &kp RIGHT_BRACKET    &kp BACKSLASH      &kp PAGE_UP
-       &kp CAPS            &kp A            &kp S            &kp D            &kp F            &kp G            &kp H                            &kp J                              &kp K                              &kp L  &kp SEMICOLON  &kp SINGLE_QUOTE          &kp ENTER    &kp PAGE_DOWN
- &kp LEFT_SHIFT            &kp Z            &kp X            &kp C            &kp V            &kp B            &kp N                            &kp M                          &kp COMMA                            &kp DOT      &kp SLASH   &kp RIGHT_SHIFT             &kp UP          &kp END
-&rgb_ug RGB_SPI  &rgb_ug RGB_SPD  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_BRD  &rgb_ug RGB_TOG  &rgb_ug RGB_BRI  &rgb_ug RGB_COLOR_HSB(0,100,50)  &rgb_ug RGB_COLOR_HSB(120,100,50)  &rgb_ug RGB_COLOR_HSB(240,100,50)
+       &kp ESC        &kp F1        &kp F2        &kp F3         &kp F4        &kp F5        &kp F6        &kp F7        &kp F8        &kp F9        &kp F10           &kp F11            &kp F12  &kp PRINTSCREEN  &kp PAUSE_BREAK  &kp DELETE
+     &kp GRAVE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3   &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9   &kp NUMBER_0         &kp MINUS          &kp EQUAL    &kp BACKSPACE         &kp HOME
+       &kp TAB         &kp Q         &kp W         &kp E          &kp R         &kp T         &kp Y         &kp U         &kp I         &kp O          &kp P  &kp LEFT_BRACKET  &kp RIGHT_BRACKET    &kp BACKSLASH      &kp PAGE_UP
+      &kp CAPS         &kp A         &kp S         &kp D          &kp F         &kp G         &kp H         &kp J         &kp K         &kp L  &kp SEMICOLON  &kp SINGLE_QUOTE          &kp ENTER    &kp PAGE_DOWN
+&kp LEFT_SHIFT         &kp Z         &kp X         &kp C          &kp V         &kp B         &kp N         &kp M     &kp COMMA       &kp DOT      &kp SLASH   &kp RIGHT_SHIFT             &kp UP          &kp END
+     &kp LCTRL  &kp LEFT_WIN  &kp LEFT_ALT     &kp SPACE  &kp RIGHT_ALT         &mo 1     &kp RCTRL      &kp LEFT      &kp DOWN     &kp RIGHT
             >;
         };
 
