@@ -42,7 +42,7 @@
             >;
         };
 
-        MO_1_TEST {
+        MO_1_SET {
             label = "TEST_MO_1";
             bindings = <
                 &rgb_ug RGB_TOG                    &rgb_ug RGB_HUI                    &rgb_ug RGB_SAI                   &rgb_ug RGB_BRI                    &rgb_ug RGB_SPI                    &rgb_ug RGB_EFF  &trans  &trans  &trans       &trans  &trans  &trans  &trans  &trans  &trans  &reset
